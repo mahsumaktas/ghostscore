@@ -257,7 +257,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 👥 Contact & Links
 
-- **Website**: [ghostscore.co](https://ghostscore.co) _(coming soon)_
+- **Website**: [ghostscore.vercel.app](https://ghostscore-acp0irwvk-mahsumaktas-projects.vercel.app)
 - **GitHub**: [@mahsumaktas](https://github.com/mahsumaktas)
 - **Email**: [hello@ghostscore.co](mailto:hello@ghostscore.co)
 - **Twitter**: Coming soon
